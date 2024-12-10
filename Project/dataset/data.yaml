@@ -1,0 +1,7 @@
+path: C:\Users\davoo\OneDrive\Desktop\Computer Vision\Project\Computer-Vision-24\Project\dataset
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Chair']
