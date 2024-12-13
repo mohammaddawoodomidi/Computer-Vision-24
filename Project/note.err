@@ -1,0 +1,6 @@
+Spack requires Python 3.6 or higher You are running spack with Python 2.7.5.
+Spack requires Python 3.6 or higher You are running spack with Python 2.7.5.
+Input Notebook:  main.ipynb
+Output Notebook: output.ipynb
+Executing:   0%|          | 0/7 [00:00<?, ?cell/s]Executing notebook with kernel: python3
+Executing:  14%|█▍        | 1/7 [00:02<00:12,  2.07s/cell]Executing:  29%|██▊       | 2/7 [00:08<00:23,  4.70s/cell]Executing:  57%|█████▋    | 4/7 [16:23<15:22, 307.51s/cell]Executing:  71%|███████▏  | 5/7 [16:25<07:05, 212.80s/cell]Executing:  86%|████████▌ | 6/7 [16:36<02:30, 150.93s/cell]Executing: 100%|██████████| 7/7 [16:37<00:00, 105.35s/cell]Executing: 100%|██████████| 7/7 [16:40<00:00, 142.97s/cell]
